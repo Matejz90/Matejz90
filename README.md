@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Matejz90)
+![](https://komarev.com/ghpvc/?username=Matejz90&label=Hit counter)
 
 <!--
 **Matejz90/Matejz90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
